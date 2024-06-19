@@ -1,0 +1,12 @@
+
+In the terminal:
+
+By command "pip --version" to check which pip you are using.
+
+By command "python" -> "import sys; sys.executable" to check which python you are using.
+
+By command "python" -> "import sys; sys.path" to check which 'site-package' the interpreter
+
+pip show openpyxl
+
+jupyter notebook
