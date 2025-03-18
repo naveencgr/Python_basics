@@ -10,3 +10,18 @@ By command "python" -> "import sys; sys.path" to check which 'site-package' the 
 pip show openpyxl
 
 jupyter notebook
+
+portfolio modification
+
+
+closing cost - 6000
+
+30 - 5.5 1point (4900)
+
+3959 (83000)
+
+5.625 - 3960
+ 
+5.25 (4900)- 3880
+ 
+ 
