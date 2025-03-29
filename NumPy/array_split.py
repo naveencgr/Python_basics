@@ -13,5 +13,5 @@ array_concat = np.concatenate((array,np.array([2])))
 array_split = np.array_split(array_concat, 3)
 print(array_split)
 
-array_split = np.split(array_concat, 3)
-print(array_split)
+#array_split = np.split(array_concat, 3)
+#print(array_split)
